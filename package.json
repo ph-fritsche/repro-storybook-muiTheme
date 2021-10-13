@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "5.0.0",
+    "@storybook/preset-create-react-app": "^3.2.0",
+    "@storybook/react": "^6.3.7",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {
+    "@ph.fritsche/eslint-config": "^1.0.0",
+    "eslint": "^7.32.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
