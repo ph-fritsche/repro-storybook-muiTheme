@@ -36,3 +36,7 @@ export function ThemedButton() {
 In CRA | In Storybook
 -- | --
 ![image](https://user-images.githubusercontent.com/39068198/137137981-8bb0fec9-b143-424c-9e5d-3e62bad9bf80.png) | ![image](https://user-images.githubusercontent.com/39068198/137138043-8cfdd94a-8029-47b3-9501-5251a2e0dff4.png)
+
+## Workaround
+
+https://github.com/storybookjs/storybook/issues/10231#issuecomment-751239488
